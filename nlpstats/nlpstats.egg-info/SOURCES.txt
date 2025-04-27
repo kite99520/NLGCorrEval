@@ -1,0 +1,16 @@
+LICENSE
+setup.py
+nlpstats/__init__.py
+nlpstats/version.py
+nlpstats.egg-info/PKG-INFO
+nlpstats.egg-info/SOURCES.txt
+nlpstats.egg-info/dependency_links.txt
+nlpstats.egg-info/requires.txt
+nlpstats.egg-info/top_level.txt
+nlpstats/correlations/__init__.py
+nlpstats/correlations/bootstrap.py
+nlpstats/correlations/correlations.py
+nlpstats/correlations/fisher.py
+nlpstats/correlations/permutation.py
+nlpstats/correlations/resampling.py
+nlpstats/correlations/williams.py
